@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|c:\\users\\msi gaming\\downloads\\quanlycuahangthuocnongduoc\\qlchtnd\\qlchtnd\\data\\qlchtnddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|solutionrelative:qlchtnd\\data\\qlchtnddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\qlchtnd\\forms\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|solutionrelative:qlchtnd\\forms\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\qlchtnd\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|solutionrelative:qlchtnd\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\qlchtnd\\forms\\frmhoadon_chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|solutionrelative:qlchtnd\\forms\\frmhoadon_chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\qlchtnd\\forms\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|solutionrelative:qlchtnd\\forms\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\qlchtnd\\forms\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|solutionrelative:qlchtnd\\forms\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\qlchtnd\\forms\\frmloaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|solutionrelative:qlchtnd\\forms\\frmloaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\qlchtnd\\forms\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|solutionrelative:qlchtnd\\forms\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\qlchtnd\\reports\\rptinhoadon.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|solutionrelative:qlchtnd\\reports\\rptinhoadon.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\qlchtnd\\reports\\rptthongkedoanhthu.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|solutionrelative:qlchtnd\\reports\\rptthongkedoanhthu.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\qlchtnd\\forms\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|solutionrelative:qlchtnd\\forms\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\qlchtnd\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|solutionrelative:qlchtnd\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\qlchtnd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7452D0-4FD0-43C8-B485-8BE6BBD55679}|QLCHTND\\QLCHTND.csproj|solutionrelative:qlchtnd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Forms\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "QLCHTND\\Forms\\frmSanPham.cs",
+              "ToolTip": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Forms\\frmSanPham.cs [Design]",
+              "RelativeToolTip": "QLCHTND\\Forms\\frmSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T09:08:39.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Forms\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QLCHTND\\Forms\\frmDangNhap.cs",
+              "ToolTip": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Forms\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "QLCHTND\\Forms\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:14:42.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmHoaDon_ChiTiet.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Forms\\frmHoaDon_ChiTiet.cs",
+              "RelativeDocumentMoniker": "QLCHTND\\Forms\\frmHoaDon_ChiTiet.cs",
+              "ToolTip": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Forms\\frmHoaDon_ChiTiet.cs [Design]",
+              "RelativeToolTip": "QLCHTND\\Forms\\frmHoaDon_ChiTiet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:14:54.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmTrangChu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Forms\\frmTrangChu.cs",
+              "RelativeDocumentMoniker": "QLCHTND\\Forms\\frmTrangChu.cs",
+              "ToolTip": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Forms\\frmTrangChu.cs [Design]",
+              "RelativeToolTip": "QLCHTND\\Forms\\frmTrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T09:08:49.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QLCHTNDDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Data\\QLCHTNDDbContext.cs",
+              "RelativeDocumentMoniker": "QLCHTND\\Data\\QLCHTNDDbContext.cs",
+              "ToolTip": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Data\\QLCHTNDDbContext.cs",
+              "RelativeToolTip": "QLCHTND\\Data\\QLCHTNDDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA8wBUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T06:13:34.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Forms\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "QLCHTND\\Forms\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Forms\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "QLCHTND\\Forms\\frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:14:59.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmLoaiSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Forms\\frmLoaiSanPham.cs",
+              "RelativeDocumentMoniker": "QLCHTND\\Forms\\frmLoaiSanPham.cs",
+              "ToolTip": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Forms\\frmLoaiSanPham.cs [Design]",
+              "RelativeToolTip": "QLCHTND\\Forms\\frmLoaiSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:14:56.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Forms\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "QLCHTND\\Forms\\frmKhachHang.cs",
+              "ToolTip": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Forms\\frmKhachHang.cs [Design]",
+              "RelativeToolTip": "QLCHTND\\Forms\\frmKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:14:55.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "rptThongKeDoanhThu.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Reports\\rptThongKeDoanhThu.rdlc",
+              "RelativeDocumentMoniker": "QLCHTND\\Reports\\rptThongKeDoanhThu.rdlc",
+              "ToolTip": "D:\\a n\u0103m 3 hk2\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Reports\\rptThongKeDoanhThu.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-05-10T06:33:08.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "rptInHoaDon.rdlc",
+              "DocumentMoniker": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Reports\\rptInHoaDon.rdlc",
+              "RelativeDocumentMoniker": "QLCHTND\\Reports\\rptInHoaDon.rdlc",
+              "ToolTip": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Reports\\rptInHoaDon.rdlc",
+              "RelativeToolTip": "QLCHTND\\Reports\\rptInHoaDon.rdlc",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-05-10T06:23:42.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmTrangChu.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Forms\\frmTrangChu.cs",
+              "RelativeDocumentMoniker": "QLCHTND\\Forms\\frmTrangChu.cs",
+              "ToolTip": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Forms\\frmTrangChu.cs",
+              "RelativeToolTip": "QLCHTND\\Forms\\frmTrangChu.cs",
+              "ViewState": "AQIAAMgAAAAAAAAAAAAtwOYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T09:11:50.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Forms\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "QLCHTND\\Forms\\frmSanPham.cs",
+              "ToolTip": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Forms\\frmSanPham.cs",
+              "RelativeToolTip": "QLCHTND\\Forms\\frmSanPham.cs",
+              "ViewState": "AQIAAMgAAAAAAAAAAAAswMwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:04:28.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Program.cs",
+              "RelativeDocumentMoniker": "QLCHTND\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI GAMING\\Downloads\\QuanLyCuaHangThuocNongDuoc\\QLCHTND\\QLCHTND\\Program.cs",
+              "RelativeToolTip": "QLCHTND\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:03:20.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

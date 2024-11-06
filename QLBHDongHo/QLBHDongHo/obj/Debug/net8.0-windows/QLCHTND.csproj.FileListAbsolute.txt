@@ -1,0 +1,1307 @@
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.AssemblyReference.cache
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.GeneratedMSBuildEditorConfig.editorconfig
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.AssemblyInfoInputs.cache
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.AssemblyInfo.cs
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.CoreCompileInputs.cache
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.exe
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.dll.config
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.deps.json
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.runtimeconfig.json
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.pdb
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Humanizer.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.Up2Date
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\refint\QLCHTND.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.pdb
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.genruntimeconfig.cache
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\ref\QLCHTND.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmHangSanXuat.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmLoaiSanPham.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.GenerateResource.cache
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.exe
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.dll.config
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.deps.json
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.runtimeconfig.json
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.pdb
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Humanizer.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.AssemblyReference.cache
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmHangSanXuat.resources
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmLoaiSanPham.resources
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.GenerateResource.cache
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.AssemblyInfoInputs.cache
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.AssemblyInfo.cs
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.CoreCompileInputs.cache
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.Up2Date
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\refint\QLCHTND.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.pdb
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.genruntimeconfig.cache
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\ref\QLCHTND.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmKhachHang.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.AssemblyReference.cache
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmHangSanXuat.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmHoaDon.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmHoaDon_ChiTiet.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmKhachHang.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmLoaiSanPham.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmNhanVien.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmSanPham.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Properties.Resources.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.GenerateResource.cache
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.GeneratedMSBuildEditorConfig.editorconfig
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.AssemblyInfoInputs.cache
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.AssemblyInfo.cs
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.CoreCompileInputs.cache
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\refint\QLCHTND.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.pdb
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.exe
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.dll.config
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.deps.json
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.runtimeconfig.json
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.pdb
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ClosedXML.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Humanizer.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Irony.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\SlugGenerator.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\XLParser.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.Up2Date
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.genruntimeconfig.cache
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\ref\QLCHTND.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmTrangChu.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmDangNhap.resources
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ClosedXML.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Irony.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\SlugGenerator.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\XLParser.dll
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmDangNhap.resources
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmHoaDon.resources
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmHoaDon_ChiTiet.resources
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmNhanVien.resources
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmSanPham.resources
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmTrangChu.resources
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Properties.Resources.resources
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.exe
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.dll.config
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.deps.json
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.runtimeconfig.json
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.pdb
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Irony.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\SlugGenerator.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\XLParser.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.AssemblyReference.cache
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmDangNhap.resources
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmHangSanXuat.resources
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmHoaDon.resources
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmHoaDon_ChiTiet.resources
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmKhachHang.resources
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmLoaiSanPham.resources
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmNhanVien.resources
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmSanPham.resources
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmTrangChu.resources
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Properties.Resources.resources
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.GenerateResource.cache
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.AssemblyInfoInputs.cache
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.AssemblyInfo.cs
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.CoreCompileInputs.cache
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.Up2Date
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\refint\QLCHTND.dll
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.pdb
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.genruntimeconfig.cache
+C:\Users\tamtr\Downloads\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\ref\QLCHTND.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.exe
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.dll.config
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.deps.json
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.runtimeconfig.json
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.pdb
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Irony.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\SlugGenerator.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\XLParser.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmDangNhap.resources
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmHangSanXuat.resources
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmHoaDon.resources
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmHoaDon_ChiTiet.resources
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmKhachHang.resources
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmLoaiSanPham.resources
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmNhanVien.resources
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmSanPham.resources
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmTrangChu.resources
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.Up2Date
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\refint\QLCHTND.dll
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.pdb
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\1\1\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\ref\QLCHTND.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ClosedXML.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Irony.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\SlugGenerator.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\XLParser.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmDangNhap.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmHoaDon.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmHoaDon_ChiTiet.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmKhachHang.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmNhanVien.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmSanPham.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmTrangChu.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Properties.Resources.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Reports.frmThongKeSanPham.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Reports.frmThongKeDoanhThu.resources
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Reports.frmInHoaDon.resources
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Reports.frmThongKeDoanhThu.resources
+D:\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Reports.frmThongKeSanPham.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Reports.frmInHoaDon.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Reports.frmThongKeDoanhThu.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Reports.frmThongKeSanPham.resources
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.exe
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.dll.config
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.deps.json
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.runtimeconfig.json
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.pdb
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Irony.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\SlugGenerator.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\XLParser.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.AssemblyReference.cache
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmDangNhap.resources
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmHangSanXuat.resources
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmHoaDon.resources
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmHoaDon_ChiTiet.resources
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmKhachHang.resources
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmLoaiSanPham.resources
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmNhanVien.resources
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmSanPham.resources
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmTrangChu.resources
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Properties.Resources.resources
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Reports.frmInHoaDon.resources
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Reports.frmThongKeDoanhThu.resources
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Reports.frmThongKeSanPham.resources
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.GenerateResource.cache
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.AssemblyInfoInputs.cache
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.AssemblyInfo.cs
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.CoreCompileInputs.cache
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.Up2Date
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\refint\QLCHTND.dll
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.pdb
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.genruntimeconfig.cache
+C:\Users\tamtr\Downloads\QuanLyCuaHangThuocNongDuoc (1)\QuanLyCuaHangThuocNongDuoc\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\ref\QLCHTND.dll
+D:\a năm 3 hk2\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Reports.frmInHoaDon.resources
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.exe
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.dll.config
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.deps.json
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.runtimeconfig.json
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\QLCHTND.pdb
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Irony.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\SlugGenerator.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\XLParser.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.AssemblyReference.cache
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmDangNhap.resources
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmHangSanXuat.resources
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmHoaDon.resources
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmHoaDon_ChiTiet.resources
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmKhachHang.resources
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmLoaiSanPham.resources
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmNhanVien.resources
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmSanPham.resources
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Forms.frmTrangChu.resources
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Properties.Resources.resources
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Reports.frmInHoaDon.resources
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Reports.frmThongKeDoanhThu.resources
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.Reports.frmThongKeSanPham.resources
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.GenerateResource.cache
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.AssemblyInfoInputs.cache
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.AssemblyInfo.cs
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.CoreCompileInputs.cache
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.csproj.Up2Date
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\refint\QLCHTND.dll
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.pdb
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\QLCHTND.genruntimeconfig.cache
+C:\Users\MSI GAMING\Downloads\QuanLyCuaHangThuocNongDuoc\QLCHTND\QLCHTND\obj\Debug\net8.0-windows\ref\QLCHTND.dll
